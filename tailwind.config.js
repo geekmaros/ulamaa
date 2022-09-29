@@ -30,6 +30,7 @@ module.exports = {
         800: "#024D51",
         900: "#013235",
       },
+      white: '#fff'
     },
     fontFamily: {
       sans: ["Libre Franklin", "sans-serif"],
